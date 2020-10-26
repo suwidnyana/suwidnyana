@@ -1,5 +1,5 @@
 ### Hi there 👋
-- ⚡ Fun fact: I can sleeping More Than 8 Hours
+- ⚡ Fun fact: I can sleep More Than 8 Hours
 <!--
 **suwidnyana/suwidnyana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
