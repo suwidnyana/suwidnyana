@@ -1,8 +1,16 @@
 ### Hi there 👋
 
-[![Elfin Sanjaya Github Stats](https://github-readme-stats.vercel.app/api?username=suwidnyana&count_private=true&theme=default&show_icons=true)](https://github.com/suwidnyana)
+[![Suwidnyana Github Stats](https://github-readme-stats.vercel.app/api?username=suwidnyana&count_private=true&theme=default&show_icons=true)](https://github.com/suwidnyana)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suwidnyana&layout=compact)](https://github.com/suwidnyana)
 <br>
+
+### 🔍 Currently Learning:
+- Solidity
+- NextJs
+- Typescript
+- Self Improvement
+- Best Practice Style Guide
+
 <!--
 **suwidnyana/suwidnyana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
