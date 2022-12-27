@@ -5,7 +5,7 @@
 <br>
 
 ### 🔍 Currently Learning:
-- Solidity
+- VMWARE 
 - NextJs
 - Typescript
 - Self Improvement
