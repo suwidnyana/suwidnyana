@@ -5,11 +5,11 @@
 <br>
 
 ### 🔍 Currently Learning:
-- VMWARE 
-- NextJs
-- Typescript
+- MYSQL
+- 
+- 
 - Self Improvement
-- Best Practice Style Guide
+- 
 
 <!--
 **suwidnyana/suwidnyana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
