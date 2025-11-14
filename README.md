@@ -5,10 +5,10 @@
 <br>
 
 ### 🔍 Currently Learning:
-- MYSQL
 - 
 - 
-- Self Improvement
+- 
+- 
 - 
 
 <!--
